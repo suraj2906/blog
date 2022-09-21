@@ -33,4 +33,4 @@ const OneBlog = () => {
 
 }
 
-export default oneBlog
+export default OneBlog
