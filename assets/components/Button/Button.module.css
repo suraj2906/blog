@@ -1,0 +1,17 @@
+.button{
+    color: #131C9B;
+    box-shadow: 0 2px 2px 0 rgba(31, 38, 135, 0.37);
+    border-radius: 50px;
+    border: 0px;
+    background-color: #fff;
+    font-family: 'Segoe UI Bold'; 
+    font-size: 20;  
+    
+}
+
+@font-face {
+    font-family: 'Segoe UI Bold';
+    src: local('Segoe UI Bold'), url('../../Fonts/segoe_ui/Segoe\ UI\ Bold.woff') format('woff');
+  }
+  
+  

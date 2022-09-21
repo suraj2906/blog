@@ -1,0 +1,24 @@
+.navbar{
+    padding-top: 10px;
+    /* position: absolute; */
+    /* position: sticky; */
+    top: 20;
+    background: transparent;
+    display: flex;
+    flex-direction: row; 
+}
+
+li{
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.logo{
+    font-size: 25px; 
+    font-family: 'Segoe UI Bold';
+    color: #131C9B;
+    margin-right: 50px;   
+}
+

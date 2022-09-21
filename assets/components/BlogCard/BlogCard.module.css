@@ -1,0 +1,25 @@
+.blogcard{
+    border-radius: 10px;
+    box-shadow: 0 8px 32px 0 rgba(35,46,23, 0.37);
+    width: 100%;
+    height: 20%;
+    display: flex;
+    background-color: #F7F8F9;
+    padding: 1em 0 1em 1em;
+    margin-top: 2em;
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: 'Above';
+    src: local('Above'), url('../../Fonts/Above/AboveDemoRegular-lJMd.ttf') format('truetype');
+}
+
+.blogtitle{
+    font-family: 'Above';
+    
+}
+
+.blogcontent{
+    margin-left: 1em;
+}

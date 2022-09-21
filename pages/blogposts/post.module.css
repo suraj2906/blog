@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.container{
+    padding: 2em 10em;
+    background-color:aliceblue;
+    height: 100%;
+}
+
+.title{
+    /* text-align: center; */
+    font-family: 'Oswald';
+    /* line-height: 3em; */
+    align-items: center;
+    font-size: 40px;
+}
+
+.content{
+    margin-top: 1em;
+    font-size: 20px;
+    font-family: 'Roboto'
+}
