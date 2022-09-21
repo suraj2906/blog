@@ -4,8 +4,12 @@ import Image from 'next/image';
 import { Parallax } from 'react-parallax';
 import styles from './post.module.css'
 
+// jest.mock('next/router', () => ({
+//   useRouter: jest.fn(),
+// }));
 
-const oneBlog = () => {
+
+const OneBlog = () => {
     const router = useRouter();
     const data = router.query;
 
