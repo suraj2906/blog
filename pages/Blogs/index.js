@@ -49,7 +49,7 @@ const Blogs = ({ blogposts }) => {
 export default Blogs
 
 export async function getServerSideProps() {
-  const response = await fetch("http://localhost:3000/api/blogposts")
+  const response = await fetch("https://blog-eight-nu-79.vercel.app/api/blogposts")
   const data = await response.json()
   return {
     props: {
