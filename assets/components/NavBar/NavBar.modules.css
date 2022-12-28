@@ -13,12 +13,13 @@ li{
     padding: 0 25px 0 25px;
     font-weight: 400;
     font-size: 17px;
+    color: #F2F0EB;
 }
 
 .logo{
     font-size: 25px; 
     font-family: 'Segoe UI Bold';
-    color: #131C9B;
+    color: #F2F0EB;
     margin-right: 50px;   
 }
 

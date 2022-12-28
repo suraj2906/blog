@@ -7,7 +7,7 @@ import styles from '../styles/Home.module.css'
 import Button from '../assets/components/Button/Button';
 import NavBar from '../assets/components/NavBar/NavBar';
 import { useLottie } from "lottie-react";
-import scrollAnimation from "../assets/Animation/scrollAnimation.json"
+import scrollAnimation from "../assets/Animation/scroll2.json"
 
 
 
@@ -53,12 +53,12 @@ export default function Home() {
           {/* <Tilt className={styles.glass} options={options}> */}
           <div className={styles.inglass}>
             <h1 className={styles.title}>
-              P R O C R A S T I N A T I N G
+              S U R A J
             </h1>
-            <h1 className={styles.title}>P R O G R A M M E R</h1>
+            <h1 className={styles.title}>S H A H</h1>
 
             <p className={styles.description}>
-              A blog that I might have yet not completed
+              Bridging the gap between
             </p>
             {/* <Button name={count} onClick={() => dispatch(increment())} /> */}
 
